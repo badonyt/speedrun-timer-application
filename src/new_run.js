@@ -240,7 +240,7 @@ if (type == "y") {
         };
         onPlayerReady();
     }
-} else {
+} else if(type == "t"){
     let twitch = new Twitch.Player("video-div", {
         video: videoId
     });
@@ -267,6 +267,9 @@ if (type == "y") {
         }
     };
     twitch.addEventListener(Twitch.Player.READY, onPlayerReady);
+}else{
+    document.querySelector(".for-debug").style.display = "initial";
+        document.querySelector(".for-player").style.display = "none";
 }
 function computeFromDebugValues() {
 

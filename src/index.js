@@ -35,3 +35,7 @@ function redirectYoutube() {
 function redirectTwitch() {
     window.location.href = "new_run.html?id=" + parseTwitchId(inputUrl.value) + "&type=t";
 }
+
+function redirectNormal() {
+    window.location.href = "new_run.html?id=" + "noid" + "&type=normal";
+}
