@@ -1,5 +1,6 @@
 # Intro
-This is the desktop application for better speedrun timer
+This is the desktop application for better speedrun timer<br>
+This is **Based** of https://noobjsperson.github.io/speedrun-timer/
 
 # Run application
 To run this install the source code then:
