@@ -23,7 +23,8 @@
         "go-to-start":"Go to start time",
         "modMessageButton":"Copy Mod Message to Clipboard",
         "set-end":"Set current time as end",
-        "go-to-end":"Go to end time"
+        "go-to-end":"Go to end time",
+        "lod":"Load"
     },
     "PT":{
         "theme":"Mudar o tema",
@@ -49,7 +50,8 @@
         "go-to-start":"Ir para o tempo de início",
         "modMessageButton":"Copiar mensagem para a área de transferência",
         "set-end":"Definir o tempo atual como o fim",
-        "go-to-end":"Ir para o tempo final"
+        "go-to-end":"Ir para o tempo final",
+        "lod":"Carregar"
     },
     "IT":{
         "theme":"Cambia Tema",
@@ -75,7 +77,8 @@
         "go-to-start":"Vai all'ora di inizio",
         "modMessageButton":"Copia il messaggio negli Appunti",
         "set-end":"Imposta l'ora atuale come fine",
-        "go-to-end":"Vai al tempo della fine"
+        "go-to-end":"Vai al tempo della fine",
+        "lod":"Carica"
     },
     "FR":{
         "theme":"Change le Thème",
@@ -101,7 +104,8 @@
         "go-to-start":"Aller au début",
         "modMessageButton":"Copier le message dans le presse-papiers",
         "set-end":"Définir le temps actuelle comme fin",
-        "go-to-end":"Aller à la fin"
+        "go-to-end":"Aller à la fin",
+        "lod":"Charger"
     },
     "SP":{
         "theme":"Cambiar de tema",
@@ -127,6 +131,7 @@
         "go-to-start":"Ir al tiempo de inicio",
         "modMessageButton":"Copiar mensaje al portapapeles",
         "set-end":"Establecer la hora actual como final",
-        "go-to-end":"Ir a la hora de finalización"
+        "go-to-end":"Ir a la hora de finalización",
+        "lod":"Cargar"
     }
 }
