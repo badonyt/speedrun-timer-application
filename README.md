@@ -1,7 +1,11 @@
-# Tauri + Vanilla
+# Intro
+This is the desktop application for better speedrun timer
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Run(not compiled)
+To run this install the source code then:
+1. have node.js
+2. have rust installed
+3. Have Microsoft Visual Studio C++ Build Tools
+4. Have webview2
+5. run <code>npm install</code>
+6. run <code>npm run tauri dev</code>
