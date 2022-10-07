@@ -1,7 +1,7 @@
 # Intro
 This is the desktop application for better speedrun timer
 
-# Run(not compiled)
+# Run application
 To run this install the source code then:
 1. have node.js
 2. have rust installed
