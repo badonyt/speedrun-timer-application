@@ -1,6 +1,7 @@
 # Intro
 This is the desktop application for better speedrun timer<br>
-This is **Based** of https://noobjsperson.github.io/speedrun-timer/
+This is **Based** of https://noobjsperson.github.io/speedrun-timer/ <br>
+So, Thanks [NoobJsPerson](https://github.com/NoobJsPerson) for making this software possible.
 
 # Run application
 To run this install the source code then:
@@ -18,6 +19,6 @@ To run this install the source code then:
 3. Then it should be in ./src-tauri/target/release
 
 
-# Contributors
+# Contributors(original site)
 
-View it here[this](./src/README.md)
+Contributors for original site: [Here](./src/README.md)
