@@ -18,7 +18,11 @@ To run this install the source code then:
 2. run <code>npm run tauri build</code>
 3. Then it should be in ./src-tauri/target/release
 
+# Contributors
+* [Fabian Lars](https://github.com/FabianLars) helped me fix urls
 
 # Contributors(original site)
 
 Contributors for original site: [Here](./src/README.md)
+
+
